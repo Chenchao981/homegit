@@ -1,0 +1,2 @@
+2018-08-08T13:01:50.549721Z 1 [Note] A temporary password is generated for root@localhost: zM,trQfWw50Z
+s018-10-21T11:53:22.813939Z 0 [Note] Shutting down plugin 'mysql_native_password'
